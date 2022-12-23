@@ -42,10 +42,11 @@
 
 
 </table>
-</div>
+
 <br/><br/>
 
-<a href="add-product">Add Product</a>
+<a href="add-product" class="btn btn-primary">Add Product</a>
+</div>
 
 </body>
 </html>

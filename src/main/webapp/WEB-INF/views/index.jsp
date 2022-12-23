@@ -1,7 +1,7 @@
 <html>
 <body>
     <form>  
-        <div> <center> 
+        <div align="center"> 
             <label>Username : </label> 
             <input type="text" placeholder="Enter Username" name="username" required>  <br/>  <br/>  
             <label>Password : </label>   
@@ -9,9 +9,9 @@
             <button type="submit">Login</button>   <br/>  
             <input type="checkbox" checked="checked"> Remember me <br/> <br/>   
             
-            <a href="/productcrudapp/add-product"> Product Details </a> 
+            <a href="/productcrudapp/add-product"> Product Details </a>  <br/> <br/> 
             Forgot <a href="#"> password? </a>   
-        </center></div>   
+        </div>   
     </form>     
      </body>
 </html>
